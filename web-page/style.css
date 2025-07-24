@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+nav{
+    background-color: antiquewhite;
+    position:fixed;top:0px;
+    position: fixed;right: 0px;
+    position: fixed;left: 0px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+li{
+    padding:20px 30px;
+}
+a{
+    text-decoration: none;
+    color:brown;
+}
+a:hover{
+    background-color: rgb(245, 182, 101);
+}
